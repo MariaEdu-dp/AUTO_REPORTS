@@ -1,0 +1,17 @@
+# Python dependencies for boletim_queimadas_portatil.py
+numpy
+pandas
+xarray
+netCDF4
+dask
+rioxarray
+rasterio
+geopandas
+pyogrio
+shapely
+matplotlib
+cartopy
+earthengine-api
+xee
+pypdf
+pdf2image
